@@ -2,6 +2,7 @@
  * Steven Driver 09-12-2024
  * Version 1.0 
  */
+package trimester1;
 
 import java.util.Scanner;
 
