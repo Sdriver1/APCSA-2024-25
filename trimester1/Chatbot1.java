@@ -2,7 +2,7 @@
  * Steven Driver 09-12-2024
  * Version 1.0 
  */
-package trimester1;
+package trimester1; //This is just for github/VSC testing
 
 import java.util.Scanner;
 
@@ -36,7 +36,7 @@ public class Chatbot1 {
         String food = new String(scn.nextLine());
         System.out.println(food + " sounds delicious! I will have to try it sometime.");
 
-        /* GPA Calcuator */
+        /* GPA Calculator */
         System.out.println("What is your current GPA?");
         double currGPA = scn.nextDouble();
         scn.nextLine();
@@ -91,19 +91,19 @@ public class Chatbot1 {
         }
 
         /* Average calculator */
-        System.out.print("Enter grade 1: ");
+        System.out.println("Enter grade 1: ");
         int grade1 = scn.nextInt();
 
-        System.out.print("Enter grade 2: ");
+        System.out.println("Enter grade 2: ");
         int grade2 = scn.nextInt();
 
-        System.out.print("Enter grade 3: ");
+        System.out.println("Enter grade 3: ");
         int grade3 = scn.nextInt();
 
-        System.out.print("Enter grade 4: ");
+        System.out.println("Enter grade 4: ");
         int grade4 = scn.nextInt();
 
-        System.out.print("Enter grade 5: ");
+        System.out.println("Enter grade 5: ");
         int grade5 = scn.nextInt();
 
         double average = ((double) (grade1 + grade2 + grade3 + grade4 + grade5)) / 5;
