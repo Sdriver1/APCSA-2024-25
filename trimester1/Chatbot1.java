@@ -117,6 +117,10 @@ public class Chatbot1 {
 /*
  * Notes:
  * Input parameters are in the () of the method
- * Instantiate: create an object of a class
+ * Instantiate: construct an instant of the object (Assign the identifier and it's initial attributes)
  * Instantiate Scanner object: Scanner scn = new Scanner(System.in);
+ * A variable is an identifier.
+ * is-a (class name (inheritance))
+ * has-a (identifier - when instantiated the identifier is assigned
+ * does-a (the methods of a class or the things a class does
  */
