@@ -109,6 +109,16 @@ public class Chatbot1 {
         double average = ((double) (grade1 + grade2 + grade3 + grade4 + grade5)) / 5;
         System.out.println("The average is: " + average);
 
+        System.out.println("\nThank you for chatting with me, " + name + "!");
+        System.out.println(" ************** ");
+        System.out.println(" *            * ");
+        System.out.println(" * **      ** * ");
+        System.out.println(" * **      ** * ");
+        System.out.println(" *            * ");
+        System.out.println(" *            * ");
+        System.out.println(" *            * ");
+        System.out.println(" ************** ");
+
         /* Closing */
         scn.close();
     }
